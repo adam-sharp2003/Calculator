@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\madap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\madap\\.nuget\\packages"
+    ]
+  }
+}
