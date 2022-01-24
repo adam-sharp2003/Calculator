@@ -13,7 +13,7 @@ namespace Calculator
                 string ready = "y";
                 while (ready != "n") 
                 { 
-                    Console.WriteLine("Formaula? (num sym num...");
+                    Console.WriteLine("Formaula? (num sym num...)");
                     formulae.Add(Console.ReadLine());
                     Console.WriteLine("Any more formulae?");
                     ready = Console.ReadLine();
