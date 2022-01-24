@@ -10,8 +10,8 @@ namespace Calculator
             while (true) 
             { 
                 List<string> formulae = new List<string>();
-                string ready = "n";
-                while (ready != "y") 
+                string ready = "y";
+                while (ready != "n") 
                 { 
                     Console.WriteLine("Formaula? (num sym num...)");
                     formulae.Add(Console.ReadLine());
